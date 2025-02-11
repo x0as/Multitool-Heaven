@@ -124,7 +124,6 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/loxy0dev/RedTiger-Tools/archive/refs/tags/v6.3.zip">Dowloads "RedTiger-Tools.zip" Here</a>
 
 <p>
   
@@ -136,8 +135,8 @@
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
+2 - Write "git clone https://github.com/x0as/xoas.git"
+3 - Write "cd x0as-tool"
 4 - Write "git pull"
 5 - Write "python Setup.py"
 ```
@@ -148,12 +147,11 @@ Or
 
 <p>
   
-  - RedTiger Tools has been developed solely for educational purposes.<br>
+  - x0as has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
-  - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - By choosing to use x0as, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
+  - All scripts in the "<a href="https://github.com/x0as">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
 </p>
 
-<h1 align="center">Donation</h1>
 
